@@ -18,7 +18,7 @@ In this lab, you will perform exploratory data analysis on a dataset of personal
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lab |  NLP EDA Notebook | [Link](./starter-code.ipynb)|
+| Lab |  NLP EDA Notebook | [Link](./EDA NLP.ipynb)|
 | Dataset | MyPersonality Datasets | [Link](./data) |
 
 ---
