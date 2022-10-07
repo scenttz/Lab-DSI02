@@ -8,7 +8,7 @@ In this lab, you will implement and compare many regression and classification m
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Activity |  Supervised Learning Models Jupyter Notebook | [Link](supervised_model_comparison_lab/Supervised Learning Model Comparison.ipynb)|
+| Activity |  Supervised Learning Models Jupyter Notebook | [Link](./Supervised%20Learning%20Model%20Comparison.ipynb)|
 | Data | 401(k) Dataset | [Link](./401ksubs.csv)|
 
 ---
