@@ -28,7 +28,7 @@ This lab uses a chronic kidney disease dataset. You may find [this article](./ch
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lab |  Classification Model Evaluation Jupyter Notebook | [Link](./starter-code.ipynb)|
+| Lab |  Classification Model Evaluation Jupyter Notebook | [Link](./Predicting%20Chronic%20Kidney%20Disease%20in%20Patients.ipynb)|
 | Data | A set of chronic kidney disease (CKD) data and other biological factors | [Link](./chronic_kidney_disease_full.csv)|
 |      | Data Dictionary | [Link](./chronic_kidney_disease_header.txt)|
 | Article | Background article on modeling CKD| [Link](./chronic_kidney_disease.pdf) |
