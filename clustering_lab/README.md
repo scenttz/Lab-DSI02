@@ -8,5 +8,5 @@ This lab explores clustering with the Gapminder dataset found in the Plotly libr
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lab |  Clustering Notebook | [Link](./starter-code.ipynb)|
+| Lab |  Clustering Notebook | [Link](./DBSCAN%20vs.%20K-Means.ipynb)|
 
