@@ -6,6 +6,6 @@ Time series data presents some additional challenges. In this lab, you'll practi
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lab |  Time Series EDA Jupyter Notebook | [Link](./starter-code.ipynb)|
+| Lab |  Time Series EDA Jupyter Notebook | [Link](./%20Time%20Series%20EDA%20Chickenpox%20cases.ipynb)|
 | Data | Chickenpox Dataset | [Link](./data/hungary_chickenpox.csv)|
 
