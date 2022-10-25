@@ -11,5 +11,5 @@ Data retrieved from [Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-s
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Starter Code | ARIMA Lab | [Link](./time_series_modeling/ARIMA%20Lab%20-%20Walmart%20sales.ipynb)
+| Starter Code | ARIMA Lab | [Link](./ARIMA%20Lab%20-%20Walmart%20sales.ipynb)
 | Data | Walmart sales data | [Link](./datasets/train.csv)
