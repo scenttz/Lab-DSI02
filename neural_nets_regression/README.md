@@ -17,4 +17,4 @@ The objectives for this lab are:
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lab |  Intro to Regression with Tensorflow & Keras Jupyter Notebook | [Link](./starter-code.ipynb)|
+| Lab |  Intro to Regression with Tensorflow & Keras Jupyter Notebook | [Link](./Regression%20with%20Tensorflow%20%26%20Keras.ipynb)|
