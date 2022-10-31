@@ -12,4 +12,4 @@ From Kaggle:
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lab |  Starter Code Notebook | [Link](./starter-code.ipynb)|
+| Lab |  Starter Code Notebook | [Link](./CNN%20Digit-recognizer.ipynb)|
